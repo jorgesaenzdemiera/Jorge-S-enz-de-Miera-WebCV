@@ -17,7 +17,7 @@ st.write('Soy una persona tranquila y adaptable, capaz de enfrentarme a cualquie
 
 st.write("\n")
 st.write("\n")
-st.write("**Carta de Presentacion Capgemini:**")
-with open("Carta de Motivación.pdf", "rb") as pdf_file:
+st.write("**Carta de Motivación Capgemini:**")
+with open("Carta de Presentación.pdf", "rb") as pdf_file:
     carta_presentacion = pdf_file.read()
 st.download_button("Descargar Carta de Motivación para Capgemini", data=carta_presentacion, file_name= 'Carta de Motivación.pdf', mime='pdf')
