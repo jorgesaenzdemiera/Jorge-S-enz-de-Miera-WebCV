@@ -54,7 +54,7 @@ st.write("## Conóceme más:")
 with open("CV Jorge Sáenz de Miera.pdf", "rb") as pdf_file:
     cv_tradicional = pdf_file.read()
 
-with open("CV Infografico.pdf", "rb") as pdf_file:
+with open("CV Infográfico.pdf", "rb") as pdf_file:
     cv_infografico = pdf_file.read()
 
 
