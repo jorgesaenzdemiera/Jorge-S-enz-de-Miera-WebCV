@@ -20,4 +20,4 @@ st.write("\n")
 st.write("**Carta de Presentacion Capgemini:**")
 with open("Carta de Presentación.pdf", "rb") as pdf_file:
     carta_presentacion = pdf_file.read()
-st.download_button("Descargar Carta de Presentacion para Capgemini", data=carta_presentacion, file_name= 'Carta de Presentacion.pdf', mime='pdf')
+st.download_button("Descargar Carta de Motivación para Capgemini", data=carta_presentacion, file_name= 'Carta de Presentacion.pdf', mime='pdf')
