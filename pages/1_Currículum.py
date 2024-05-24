@@ -1,8 +1,10 @@
 import streamlit as st
 
+col_1111111, col_2222222 = st.columns(2)
+col_1111111.page_link("Presentación.py", label="🡸 Ir a Presentación")
+col_2222222.page_link("pages/2_Blog.py", label="Ir a Blog 🡺")
 
 col_1, col_2 = st.columns(2)
-
 col_1.write("\n")
 col_1.write("\n")
 col_1.write("# Currículum")
@@ -64,3 +66,4 @@ col_111111.download_button("Descargar CV Tradicional", data=cv_tradicional, file
 col_222222.download_button("Descargar CV Infográfico", data=cv_infografico, file_name= 'CV Jorge Saenz de Miera Infografico.pdf', mime='pdf')
 
 col_333333.link_button("Ver Vídeo Currículum", "https://drive.google.com/file/d/1UvLhyMcfIs1ALCr04Gvhbt-HhnkiDpud/view?usp=sharing")
+

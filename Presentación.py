@@ -1,5 +1,9 @@
 import streamlit as st
 
+col_111, col_222 = st.columns(2)
+col_222.page_link("pages/1_Currículum.py", label="Ir a Currículum 🡺")
+col_222.page_link("pages/2_Blog.py", label="Ir a Blog 🡺")
+
 col_1, col_2 = st.columns(2)
 col_1.write("# Jorge Sáenz de Miera Marzo")
 col_2.image('Foto Perfil.png', width=170)
@@ -21,3 +25,4 @@ st.write("**Carta de Motivación Capgemini:**")
 with open("Carta de Presentación.pdf", "rb") as pdf_file:
     carta_presentacion = pdf_file.read()
 st.download_button("Descargar Carta de Motivación para Capgemini", data=carta_presentacion, file_name= 'Carta de Motivación.pdf', mime='pdf')
+
