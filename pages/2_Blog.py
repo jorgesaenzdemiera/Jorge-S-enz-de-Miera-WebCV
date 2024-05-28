@@ -9,6 +9,7 @@ col_2.write("Educación y Tecnología")
 st.markdown("""
             # USO DE LAS TECNOLOGÍAS EN LAS AULAS
             ![Portada](https://github.com/jorgesaenzdemiera/archivos/blob/main/images/intro.jpg?raw=true)
+            \n
             Las generaciones actuales son nativas tecnológicas, ya que los dispositivos tecnológicos han formado parte de sus vidas desde edades tempranas. En otras palabras, los niños de la actualidad nacen con un acercamiento a la tecnología muy amplio y con el paso de los años este se hace más fuerte. Se produce en actividades muy cotidianas como calmar el llanto del niño recurriendo a videos, música, películas o series de diversas plataformas para conseguir de esta manera la distracción y tranquilidad de los niños. Por tanto, debido al mundo globalizado y tecnológico en el que estamos establecidos, la sociedad y la educación tienen que tener como objetivo adaptarse a la actualidad, y por ello nace la necesidad de orientar la educación hacia el uso apropiado de la tecnología,  ya que su papel en el futuro de los alumnos va a ser muy elevado. 
             \n
             Para ello, los profesores deben conocer las diferentes herramientas y recursos digitales a los que pueden acceder, no solo vale introducirlas en el aula, sino que debe servir a los alumnos para que así desarrollen nuevas habilidades. Hay que tener en cuenta que dejar a los estudiantes trabajar con tecnologías e internet tiene sus ventajas y sus desventajas, como las siguientes:
@@ -49,7 +50,7 @@ st.markdown("""
             \n
             Entre los **dilemas** asociados con la IA, discutimos:
             \n
-            #### Posibles problemas:
+            #### Posibles problemas
             \n
             Al igual que la tecnología la IA trae consigo implícita una serie de problemas y de puntos positivos. Por ejemplo, hay muchos problemas de protección de privacidad, dado que opera mediante algoritmos basados en nuestras preferencias y accede a datos personales. También, se usa para dar diagnósticos o sentencias judiciales, esto puede acarrear ciertos problemas. La IA es programada por empresas específicas que influyen en la información que recibimos a través de ella, por lo que existe una influencia de manipular la conciencia humana. Recopila errores de gente que publica cosas en internet. Por tanto, en muchas ocasiones da respuestas que no se ajustan a lo que le piden. Muchas páginas web están cerrando las fuentes de open I, porque pierden dinero.
             \n
@@ -57,7 +58,7 @@ st.markdown("""
             \n
             La IA no puede pensar ni analizar desigualdades internas. Además, niega los derechos de autor por lo que hay implicaciones legales y denuncias por motivos económicos cierran el acceso a la información. En cuanto a esta información hay que tener claro que proporciona información personal de cualquier persona, por el flujo de información y de datos.
             \n
-            #### Puntos positivos:
+            #### Puntos positivos
             \n
             La IA es una herramienta que procesa y analiza la información y los datos muy rápidamente, además proporciona a la actividad humana un acceso a la información rápida, intuitiva y sencilla consiguiendo que nos faciliten tareas y ahorremos tiempo en búsquedas que realmente no son necesarias. Utilizar la IA viene bien cuando el diseño es instruccional, es decir, la función que conlleva es copia y pega y para cuando solo es necesario la veracidad de conocimientos para bufetes, médicos… Últimamente se usa para una detección precoz de determinados cánceres, lo que provoca más gente sana y viva, potencia cosas buenas relacionadas a la salud.
             \n
@@ -67,11 +68,11 @@ st.markdown("""
             \n
             Llevar al aula la inteligencia artificial es una cuestión compleja, pero si realmente la vemos y utilizamos únicamente  como un medio, que ayude a la sociedad a ser mejor, a ahorrar tiempo, a acceder a la información rápidamente, y  no como un fin, conseguiremos el propósito que tiene este blog, aplicar la IA en la educación. En relación a los profesores, seguirá siendo necesario que haya una intervención humana, una persona que sienta, que pueda crear una conexión con los alumnos, las familias y sus compañeros, y que pueda pensar por sí solo y tomar decisiones.  Hay que tener claro que la IA no puede sustituir a los seres humanos, pero sí puede ayudar con la carga de trabajo de los educadores. Sumandonos al artículo “La inteligencia artificial en la educación” ( 2024), podemos tratar los siguientes puntos: 
             \n
-            #### Trabajar con IA mejora la enseñanza:
+            #### ¿Trabajar con IA mejora la enseñanza?
             \n
             Introducir la IA en el campo educativo significa preparar a los alumnos para un futuro, ya que esta ocupará un papel integral en sus vidas, tanto personales como laborales. Permitirá crear entornos de aprendizaje personalizados, adaptativos e innovadores, que a su vez facilitará el desarrollo de estrategias de  adquisición de conocimiento por parte del alumno y proporcionará a la IA la información necesaria para generar estrategias efectivas de enseñanza, basadas en sus análisis predictivos y evaluativos. También, aplicarla en la educación supone una automatización en las  tareas administrativas, lo que permite a los educadores centrarse más en enseñar y orientar a los estudiantes. Además debemos tener en cuenta que podría potenciar la creatividad de los alumnos y funcionar como un sistema de apoyo para docentes y abordar temas éticos, a través de asistentes de IA en clase. Asimismo, los maestros podrán recurrir a la IA para tratar cuestiones complejas de una manera más accesible y comprensible  para todos y todas. Para poder conseguirlo y aplicarlo debe haber un cambio trascendental, una formación docente muy elevada y a su vez es adecuado que los propios alumnos aprendan a integrar en sus vidas la IA de manera justa, eficaz, ética y efectiva. 
             \n
-            #### Personalizar la enseñanza con la ayuda de la IA:
+            #### Personalizar la enseñanza con la ayuda de la IA
             \n
             Introducir herramientas de IA en el campo educativo ofrece muchas oportunidades para mejorar la enseñanza y el aprendizaje. Los maestros pueden recurrir a ciertas plataformas que permitirán un aprendizaje personalizado  adaptativo al nivel del estudiante.  Usar la IA en la educación significa que ayuda al docente a adaptar el material de las Necesidades Educativas Especiales(NEE). Trabajar con IA supone un ajuste al nivel de las dificultades que puede presentar el alumno y a su ritmo de aprendizaje. Además, la IA podría darles desafíos y materiales que los alumnos necesitan practicar más. 
             \n
@@ -95,4 +96,7 @@ st.markdown("""
             \n
             ## Conclusiones
             En definitiva, este blog confía en lo favorable que es utilizar la Inteligencia Artificial en nuestras vidas, ya que la puede llegar a mejorar mucho, pero también es necesario proporcionar planes de cómo utilizarla, intervenciones éticas-morales y en la que se nos limite a usarla si provoca algún tipo de problema. Es un arma de doble filo y al igual que arregla nuestras vidas puede destruirla si no tenemos cuidado. Está en nuestras manos avanzar globalmente con la ayuda de estas entidades, pero también está en nuestras manos utilizarla siempre para el bien.
-            """)
+            \n""")
+st.write('')
+st.write('')
+st.write("Autor: **Jorge Sáenz de Miera**")
